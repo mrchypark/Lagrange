@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+
+{% include head.html %}
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T9LC28L" height="0" width="0" style="display:none;visibility:hidden">    
+      </iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="container">
+        {% include header.html %}
+
+        <div class="post-container">
+            {{ content }}
+        </div>
+
+        {% include footer.html %}
+
+    </div>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58e13f87125d64f0"></script>
+</body>
+
+</html>

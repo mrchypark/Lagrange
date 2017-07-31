@@ -1,0 +1,36 @@
+# Site Settings
+title:               Mrchypark
+tagline:             log for you & me
+description:
+baseurl:            #"/Lagrange"
+url:                #"https://lenpaul.github.io"
+github:
+  url:               #"https://lenpaul.github.io/Lagrange"
+author:
+  name:              "박찬엽"
+  email:             "mrchypark@gmail.com"
+  twitter:           "mrchypark_"
+  instagram:         "mrchypark"
+  github:            "mrchypark"
+  facebook:          "mrchypark"
+  linkedin:          "chanyub.park"
+navigation:
+- title: Materials
+  url: /materials
+- title: Index
+  url: /index
+- title: About
+  url: /about
+
+
+paginate:            5
+disqus:              "mrchypark"
+addthisId:           "58e1422c6a3c89f2"
+ga:                  "UA-47822682-14"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
+encoding:            "UTF-8"
