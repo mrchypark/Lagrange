@@ -2,7 +2,7 @@
 layout: post
 title:  "논리 연산자 정리"
 date:   `r Sys.time()`
-categories: r
+categories: r operator
 ---
 
 ```{r setup, include=FALSE}
