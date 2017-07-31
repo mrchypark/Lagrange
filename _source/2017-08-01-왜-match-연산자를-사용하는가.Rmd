@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "왜 %in% 연산자를 사용해야 하는가 feat.=="
+date:   `r Sys.time()`
+categories: r match 연산자 equal
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+`%in%`는 `match()`함수를 활용한 특별한 연산자입니다.
