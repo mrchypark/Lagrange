@@ -15,4 +15,3 @@ deploy:
   on:
     branch: source
   target_branch: master
-  
