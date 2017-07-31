@@ -2,8 +2,7 @@
 layout: post
 title:  "왜 %in% 연산자를 사용해야 하는가 feat.=="
 date:   `r Sys.time()`
-categories: r 
-tags: [r,match,연산자,equal]
+categories: r
 ---
 
 ```{r setup, include=FALSE}

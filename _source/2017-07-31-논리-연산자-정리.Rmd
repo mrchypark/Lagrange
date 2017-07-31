@@ -3,7 +3,6 @@ layout: post
 title:  "논리 연산자 정리"
 date:   `r Sys.time()`
 categories: r
-tags: [r,논리연산자,연산자,멀티플,계산,연산]
 ---
 
 ```{r setup, include=FALSE}
