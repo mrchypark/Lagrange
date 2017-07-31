@@ -17,4 +17,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 라는 뜻입니다. 
 
-[1]: https://mrchypark.github.io/r/%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90/%EC%97%B0%EC%82%B0%EC%9E%90/%EB%85%BC%EB%A6%AC-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%A0%95%EB%A6%AC.html
+[1]: https://mrchypark.github.io/r/operator/%EB%85%BC%EB%A6%AC-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%A0%95%EB%A6%AC.html
