@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "데이터의 일부만 가져오기"
+title:  "[작성중]데이터의 일부만 가져오기"
 date:   `r Sys.time()`
 categories: r subset
 ---
