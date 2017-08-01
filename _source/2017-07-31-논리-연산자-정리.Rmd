@@ -32,7 +32,7 @@ knitr::opts_chunk$set(echo = TRUE)
 | a == b    | a와 b가 같다             |
 | a != b    | a와 b가 같지 않다        |
 | !x        | x가 아니다               |
-| x \| y    | x이거나 y이다            |
+| x \\| y   | x이거나 y이다            |
 | x & y     | x이고 y이다              |
 | isTRUE(x) | x가 TRUE이다             |
 |-----------|--------------------------|
