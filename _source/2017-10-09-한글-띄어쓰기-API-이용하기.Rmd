@@ -30,7 +30,7 @@ reticulate는 파이썬 코드를 R에서 사용할 있게 interface 해주는 �
 
 ```{r}
 if (!requireNamespace("httr")) install.packages("httr")
-libray(httr)
+library(httr)
 
 body<-list(sent="아래와같은방식으로API를사용할수있으며,호출건수에대해서별도의제한은없으나,1회 호출에200글자로글자수를제한하고있다.")
 res<-PUT(url='http://35.201.156.140:8080/spacing', body=body)
@@ -54,7 +54,7 @@ GET은 서버의 주소만으로 서버에 데이터를 요청하는 방법입�
 
 ```{r}
 if (!requireNamespace("httr")) install.packages("httr")
-libray(httr)
+library(httr)
 res<-GET("https://mrchypark.github.io/")
 content(res)
 ```
