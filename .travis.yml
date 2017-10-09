@@ -6,7 +6,7 @@ branches:
   only: source
 
 script:
-  - apt install libxml2
+  - sudo apt-get install libxml2 -y
   - Rscript -e 'servr:::knit_maybe(c(".", "_source", "_posts"), c(".", "_posts", "_posts"), "build.R", "jekyll")'
   
 deploy:
