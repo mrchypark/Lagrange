@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "한글 띄어쓰기 API 이용하기"
-date:   `r Sys.time()`
+date:   "2017-10-09"
 categories: r httr api
 ---
 

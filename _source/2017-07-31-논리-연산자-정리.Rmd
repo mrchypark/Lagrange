@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "논리 연산자 정리"
-date:   `r Sys.time()`
+date:   "2017-07-31"
 categories: r operator
 ---
 
