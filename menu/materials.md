@@ -13,9 +13,12 @@ R로 웹 데이터를 가져오는 4가지 방법(은 크롤링) : [[자료][5]]
 
 Rstudio로 사용하는 Github : [[자료][3]]
 
+docker와 함께하는 R : [[자료][7]]
+
 [1]: http://www.fastcampus.co.kr/data_camp_dabrp/
 [2]: https://mrchypark.github.io/dabrp_classnote3/
 [3]: https://mrchypark.github.io/github-with-rstudio/
 [4]: https://mrchypark.github.io/apiR/
 [5]: https://mrchypark.github.io/getWebR/
 [6]: https://mrchypark.github.io/tqk_docs/tidyquant-with-tqk.html
+[7]: https://mrchypark.github.io/docker-with-r/
