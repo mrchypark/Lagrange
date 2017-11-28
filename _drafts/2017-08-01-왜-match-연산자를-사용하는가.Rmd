@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "[작성중]왜 %in% 연산자를 사용해야 하는가 feat.=="
+date:   `r Sys.time()`
+categories: r match
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+논리 연산자를 정리하면서[[1][1]] `%in%` 연산자에 대해 따로 포스팅한다고 이야기한 것 같습니다. 결론부터 얘기하면 `%in%`는 어떤 뜻이냐 하면 
+
+> 왼쪽에 있는 것들 중에 오른쪽 리스트에 포함된 것들 모두를 알려줘
+
+라는 뜻입니다. 
+
+## 
+
+
+
+
+
+
+
+
+
+[1]: https://mrchypark.github.io/r/operator/%EB%85%BC%EB%A6%AC-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%A0%95%EB%A6%AC.html
